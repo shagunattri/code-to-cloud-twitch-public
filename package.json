@@ -4,7 +4,7 @@
   "description": "Calculator",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/octodemo/code-to-cloud-twitch-public.git"
+    "url": "git+https://github.com/shagunattri/code-to-cloud-twitch-public.git"
   },
   "main": "index.js",
   "scripts": {
@@ -36,9 +36,9 @@
     "supertest": "^3.4.2"
   },
   "bugs": {
-    "url": "https://github.com/octodemo/code-to-cloud-twitch-public/issues"
+    "url": "https://github.com/shagunattri/code-to-cloud-twitch-public/issues"
   },
-  "homepage": "https://github.com/octodemo/code-to-cloud-twitch-public#readme",
+  "homepage": "https://github.com/shagunattri/code-to-cloud-twitch-public#readme",
   "directories": {
     "test": "test"
   }
